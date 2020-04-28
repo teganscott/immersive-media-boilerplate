@@ -1,3 +1,4 @@
+### Project includes three.js, tone.js, firebase-tools, firebase hosting and materialize CSS libraries
 
 ## Installation
 
