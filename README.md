@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/1003196/80511942-cb52ae00-894a-11ea-9d03-01320741c561.png)
+`
+
 ### Project includes three.js, tone.js, firebase-tools, firebase hosting and materialize CSS libraries
 
 ## Installation
