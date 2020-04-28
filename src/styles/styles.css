@@ -1,0 +1,82 @@
+.a-enter-vr {
+  position: absolute;
+  left: 0;
+  bottom: 190;
+}
+
+#footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:#455a64 ;
+    color: white;
+    text-align: center;
+    height:38px;
+  }
+
+  .button{
+    transform: rotate(90deg); 
+    position: absolute;
+    right: -30px;
+    top: 110px;
+    background: rgba(0, 0, 0, 0.35);
+   }
+
+ .button2{
+  transform: rotate(90deg); 
+  position: absolute;
+  right: 25px;
+  top: 210px;
+  background: rgba(0, 0, 0, 0.35);
+ }
+
+ .button3{
+  transform: rotate(90deg); 
+  position: absolute;
+  right: 25px;
+  top: 255px;
+  background: rgba(0, 0, 0, 0.35);
+ }
+
+ .button4{
+  transform: rotate(90deg); 
+  position: absolute;
+  right: 25px;
+  top: 300px;
+  background: rgba(0, 0, 0, 0.35);
+ }
+
+ .button5{
+  transform: rotate(90deg); 
+  position: absolute;
+  right: 25px;
+  top: 345px;
+  background: rgba(255, 255, 255, 0.85)
+ }
+
+ .play_button{
+  position: absolute;
+  left: 40px;
+  bottom: 65px;
+
+ }
+
+ .no_select{
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+ }
+
+ 
+ .info{
+  transform: rotate(90deg); 
+  position: absolute;
+  left: -55px;
+  bottom: 140px;
+  background: rgba(0, 0, 0, 0.35);
+ }
+
